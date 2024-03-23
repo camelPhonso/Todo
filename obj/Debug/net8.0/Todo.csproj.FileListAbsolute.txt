@@ -27,3 +27,4 @@
 /Users/alphonso/localRepo/dotNet/Todo/obj/Debug/net8.0/Todo.pdb
 /Users/alphonso/localRepo/dotNet/Todo/obj/Debug/net8.0/Todo.genruntimeconfig.cache
 /Users/alphonso/localRepo/dotNet/Todo/obj/Debug/net8.0/ref/Todo.dll
+/Users/alphonso/localRepo/dotNet/Todo/obj/Debug/net8.0/Todo.sourcelink.json
